@@ -1,0 +1,6 @@
+framework module Pods_qa_applicationUITests {
+  umbrella header "Pods-qa-applicationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
